@@ -10,3 +10,14 @@ A lightweight Linux process monitoring tool that displays running processes with
 ## Build
 ```bash
 make
+```
+## Usage 
+```bash
+./runtime
+```
+## Process States
+R: Running
+S: Sleeping
+D: Disk Sleep
+T: Stopped
+I: Idle
